@@ -1,2 +1,2 @@
 puts "chloe"
-puts "tara" .upcase
+puts "chloe" .upcase
